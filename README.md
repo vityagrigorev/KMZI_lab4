@@ -6,4 +6,4 @@
             python 4_server.py keyVig.txt keyAes.txt 2015
 3. Затем на клиенте:
             python 4_client.py in.txt keyVig.txt keyAes.txt 3.png localhost 2015
-4. Видим результат на сервере.
+4. Смотрим результат на сервере.
